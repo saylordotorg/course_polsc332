@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC332: The Presidency and the Executive Branch"
+course_description: "An exploration of the development of the office and functions of the chief executive, analyzing the sources and nature of executive power in American national government. Topics include the constitutional origins of the presidency, the election process, inter-institutional dynamics, and the role and organization of the federal bureaucracy."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: The President and Congress** <span id="3"></span> 
 *<span>The president (and the entire executive branch) exists within a
 system of shared powers and checks and balances with the other major
