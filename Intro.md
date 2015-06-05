@@ -205,5 +205,14 @@ future upper-level courses in the political science discipline, so be
 sure to pay close attention to all course material. Take notes on all of
 the resources in this course. These notes will serve as a useful review
 as you study for the Final Exam.  
-  
 
+**Table of Contents:** You can find the course's units at the links below.
+
+- [Unit 1](https://legacy.saylor.org/polsc332/Unit01/)
+- [Unit 2](https://legacy.saylor.org/polsc332/Unit02/)
+- [Unit 3](https://legacy.saylor.org/polsc332/Unit03/)
+- [Unit 4](https://legacy.saylor.org/polsc332/Unit04/)
+- [Unit 5](https://legacy.saylor.org/polsc332/Unit05/)
+- [Unit 6](https://legacy.saylor.org/polsc332/Unit06/)
+- [Unit 7](https://legacy.saylor.org/polsc332/Unit07/)
+- [Unit 8](https://legacy.saylor.org/polsc332/Unit08/)
