@@ -55,17 +55,17 @@ Upon successful completion of this unit, you will be able to:
     and The Federalist Papers: “No. 51,” “No. 68,” “No. 70,” “No. 71,”
     and “No. 72”**
     Link: The Library of Congress: [“About the Federalist
-    Papers”](http://www.saylor.org/site/wp-content/uploads/2011/09/POLSC332-1.1-About-the-Federalist-Papers.pdf)
+    Papers”](https://resources.saylor.org/archived/wp-content/uploads/2011/09/POLSC332-1.1-About-the-Federalist-Papers.pdf)
     (PDF) and *Federalist Papers*: [“No.
-    51”](http://www.saylor.org/site/wp-content/uploads/2011/09/POLSC332-1.1-Federalist-No-51.pdf),
+    51”](https://resources.saylor.org/archived/wp-content/uploads/2011/09/POLSC332-1.1-Federalist-No-51.pdf),
     [“No.
-    68”](http://www.saylor.org/site/wp-content/uploads/2011/09/POLSC-332-1.1-Federalist-No-68-.pdf),
+    68”](https://resources.saylor.org/archived/wp-content/uploads/2011/09/POLSC-332-1.1-Federalist-No-68-.pdf),
     [“No.
-    70”](http://www.saylor.org/site/wp-content/uploads/2011/09/POLSC332-1.1-Federalist-NO-70.pdf),
+    70”](https://resources.saylor.org/archived/wp-content/uploads/2011/09/POLSC332-1.1-Federalist-NO-70.pdf),
     [“No.
-    71”](http://www.saylor.org/site/wp-content/uploads/2011/09/POLSC332-1.1-Federalist-No-71.pdf),
+    71”](https://resources.saylor.org/archived/wp-content/uploads/2011/09/POLSC332-1.1-Federalist-No-71.pdf),
     and [“No.
-    72”](http://www.saylor.org/site/wp-content/uploads/2011/09/POLSC332-1.1-Federalist-No-72.pdf)
+    72”](https://resources.saylor.org/archived/wp-content/uploads/2011/09/POLSC332-1.1-Federalist-No-72.pdf)
     (PDF)  
       
      Instructions: First, read the background information about the
@@ -83,7 +83,7 @@ Upon successful completion of this unit, you will be able to:
     <span
     id="docs-internal-guid-0bad39e0-98d7-29e4-668a-83cdf785bffc">Link:
     The Federalist Papers: </span>[“The Anti-Federalist Papers 67 to
-    74”](http://www.saylor.org/site/wp-content/uploads/2013/10/The-Anti-Federalist-Papers-6774-1.1.pdf)
+    74”](https://resources.saylor.org/archived/wp-content/uploads/2013/10/The-Anti-Federalist-Papers-6774-1.1.pdf)
     (PDF)  
      Instructions: Read the Anti-Federalist Papers 67 to 74 by opening
     the relevant links on the site. The Anti-Federalist Papers warn
@@ -99,7 +99,7 @@ Upon successful completion of this unit, you will be able to:
 **1.2 Chief Executives Comopared** <span id="1.2"></span> 
 -   **Assessment: The Saylor Foundation’s “Chief Executives Compared”**
     Link: The Saylor Foundation’s [“Chief Executives
-    Compared”](http://www.saylor.org/site/wp-content/uploads/2011/10/POLSC332-Assessment1-FINAL.pdf)
+    Compared”](https://resources.saylor.org/archived/wp-content/uploads/2011/10/POLSC332-Assessment1-FINAL.pdf)
     (PDF)  
       
      Instructions: Complete the linked assessment in order to test your
@@ -109,7 +109,7 @@ Upon successful completion of this unit, you will be able to:
       
      When you are done, please check your work against The Saylor
     Foundation’s [“Answer Key: Chief Executives
-    Compared”](http://www.saylor.org/site/wp-content/uploads/2011/10/POLSC332-Assessment1-AnswerKey-FINAL.pdf)
+    Compared”](https://resources.saylor.org/archived/wp-content/uploads/2011/10/POLSC332-Assessment1-AnswerKey-FINAL.pdf)
     (PDF)  
       
      Completing this assessment should take approximately 1 hour.
@@ -174,7 +174,7 @@ Upon successful completion of this unit, you will be able to:
     Executive Branch: Powers of the Presidency”**
     Link: US Department of State: *Outline of US Government*: [“The
     Executive Branch: Powers of the
-    Presidency”](http://www.saylor.org/site/wp-content/uploads/2012/08/POLSC2313.2.1.pdf)
+    Presidency”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/POLSC2313.2.1.pdf)
     (PDF)  
       
      Instructions: Read the introduction and the sections titled
