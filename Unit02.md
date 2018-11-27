@@ -88,7 +88,7 @@ Upon successful completion of this unit, you will be able to:
     F. Grimmett’s “Foreign Policy Roles of the President and Congress”**
     Link: US Department of State: CRS Report to Congress: Richard F.
     Grimmett’s [“Foreign Policy Roles of the President and
-    Congress”](http://www.saylor.org/site/wp-content/uploads/2013/10/Foriegn-Policy-Roles-of-the-President-and-Congress-2.1.pdf)
+    Congress”](https://resources.saylor.org/archived/wp-content/uploads/2013/10/Foriegn-Policy-Roles-of-the-President-and-Congress-2.1.pdf)
     (PDF)  
       
      Instructions: Please read the entire report above. You should pay
@@ -153,7 +153,7 @@ Upon successful completion of this unit, you will be able to:
 -   **Reading: Foreign Policy in Focus: Robert Pallitto’s “Obama and
     State Secrets”**
     Link: Foreign Policy in Focus: Robert Pallitto’s [“Obama and State
-    Secrets”](http://www.saylor.org/site/wp-admin/post.php?post=89405&action=edit)
+    Secrets”](https://resources.saylor.org/archived/wp-admin/post.php?post=89405&action=edit)
     (PDF)  
       
      Instructions: Please click on the link above and read the entire
@@ -173,7 +173,7 @@ Upon successful completion of this unit, you will be able to:
     Pillars of US Security”**
     Link: Foreign Policy in Focus: Jim Lobe’s [“Obama Shakes Pillars of
     US
-    Security”](http://www.saylor.org/site/wp-content/uploads/2013/10/Obama-shakes-the-Pillars-of-US-Security-2.1.pdf)
+    Security”](https://resources.saylor.org/archived/wp-content/uploads/2013/10/Obama-shakes-the-Pillars-of-US-Security-2.1.pdf)
     (PDF)  
       
      Instructions: Please click on the link above and read the entire
@@ -192,7 +192,7 @@ Upon successful completion of this unit, you will be able to:
 -   **Reading: The Saylor Foundation: “Background of American Foreign
     Policy”**
     Link: The Saylor Foundation: [“Background of American Foreign
-    Policy”](http://www.saylor.org/site/wp-content/uploads/2012/08/POLSC2315.4.2.pdf)
+    Policy”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/POLSC2315.4.2.pdf)
     (PDF)  
       
      Instructions: Please read the article above. Take notes as
@@ -243,7 +243,7 @@ Upon successful completion of this unit, you will be able to:
     Foreign Policy”**
     Link: Foreign Policy in Focus: Robert Pallitto’s [“Secrecy and
     Foreign
-    Policy”](http://www.saylor.org/site/wp-content/uploads/2013/10/Secrecy-and-Foreign-Policy-2.3.pdf)
+    Policy”](https://resources.saylor.org/archived/wp-content/uploads/2013/10/Secrecy-and-Foreign-Policy-2.3.pdf)
     (PDF)  
       
      Instructions: Please read the entire article about the need and

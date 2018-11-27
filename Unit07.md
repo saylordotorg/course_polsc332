@@ -58,7 +58,7 @@ Upon successful completion of this unit, you will be able to:
 
 -   **Reading: This Nation: “Presidential Leadership”**
     Link: *This Nation*: [“Presidential
-    Leadership”](http://www.saylor.org/site/wp-content/uploads/2013/10/Presidential-Leadership-7.1.pdf)
+    Leadership”](https://resources.saylor.org/archived/wp-content/uploads/2013/10/Presidential-Leadership-7.1.pdf)
     (PDF)  
       
      Instructions: Please read the entire article about presidential
