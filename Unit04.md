@@ -50,11 +50,11 @@ id="4.1"></span> 
 -   **Reading: The Oyez Project: “INS v. Chadha,” “Morrison v. Olson,”
     and “Clinton v. City of New York”**
     Link: The Oyez Project: [“INS v.
-    Chadha”](https://resources.saylor.org/archived/wp-content/uploads/2013/10/INS-v.-CHADHA-4.1.pdf)
+    Chadha”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/10/INS-v.-CHADHA-4.1.pdf)
     (PDF), [“Morrison v.
-    Olson”](https://resources.saylor.org/archived/wp-content/uploads/2013/10/MORRISON-v.-OLSON-4.1.pdf)
+    Olson”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/10/MORRISON-v.-OLSON-4.1.pdf)
     (PDF), and [“Clinton v. City of New
-    York”](https://resources.saylor.org/archived/wp-content/uploads/2013/10/CLINTON-v.-CITY-OF-NEW-YORK.pdf)
+    York”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/10/CLINTON-v.-CITY-OF-NEW-YORK.pdf)
     (PDF)  
       
      Instructions: Please click on each link above, and read the facts
@@ -83,7 +83,7 @@ id="4.1"></span> 
     Late: The Supreme Court as a Check on Executive Power”**
     Link: Foreign Policy in Focus: Lisa Miller’s [“Too Little Too Late:
     The Supreme Court as a Check on Executive
-    Power”](https://resources.saylor.org/archived/wp-content/uploads/2013/10/The-Supreme-Court-as-a-Check-on-Executive-Power-4.2.pdf)
+    Power”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/10/The-Supreme-Court-as-a-Check-on-Executive-Power-4.2.pdf)
     (PDF)  
       
      Instructions: Please read the entire article.  
@@ -104,25 +104,25 @@ id="4.1"></span> 
     v. United States,” “Rasul v. Bush,” “Hamdi v. Rumsfeld,” “Hamdan v.
     Rumsfeld,” and “Boumediene v. Bush”**
     Link: The Oyez Project: [“The Prize
-    Cases”](https://resources.saylor.org/archived/wp-content/uploads/2013/10/The-Prize-Cases-4.2.pdf)
+    Cases”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/10/The-Prize-Cases-4.2.pdf)
     (PDF), [“United States v. Curtiss-Wright Export
-    Corp.”](https://resources.saylor.org/archived/wp-content/uploads/2013/10/United-States-v.-Curtiss-Wright-Export-Corp-4.2.pdf)
+    Corp.”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/10/United-States-v.-Curtiss-Wright-Export-Corp-4.2.pdf)
     (PDF), [“Youngstown Sheet & Tube Co. v.
-    Sawyer”](https://resources.saylor.org/archived/wp-content/uploads/2013/10/Youngstown-Sheet-Tube-Co.-v.-Sawyer-4.2.pdf)
+    Sawyer”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/10/Youngstown-Sheet-Tube-Co.-v.-Sawyer-4.2.pdf)
     (PDF), [“Dames & Moore v.
-    Regan”](https://resources.saylor.org/archived/wp-content/uploads/2013/10/Dames-Moore-v.-Regan-4.2.pdf)
+    Regan”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/10/Dames-Moore-v.-Regan-4.2.pdf)
     (PDF), [“Ex Parte
-    Milligan”](https://resources.saylor.org/archived/wp-content/uploads/2013/10/Ex-Parte-Milligan-4.2.pdf)
+    Milligan”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/10/Ex-Parte-Milligan-4.2.pdf)
     (PDF), [“Korematsu v. United
-    States”](https://resources.saylor.org/archived/wp-content/uploads/2013/10/Korematsu-v.-United-States-4.2.pdf)
+    States”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/10/Korematsu-v.-United-States-4.2.pdf)
     (PDF), [“Rasul v.
-    Bush”](https://resources.saylor.org/archived/wp-content/uploads/2013/10/Rasul-v.-Bush-4.2.pdf)
+    Bush”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/10/Rasul-v.-Bush-4.2.pdf)
     (PDF), [“Hamdi v.
-    Rumsfeld”](https://resources.saylor.org/archived/wp-content/uploads/2013/10/Hamdi-v.-Rumsfeld-4.2.pdf)
+    Rumsfeld”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/10/Hamdi-v.-Rumsfeld-4.2.pdf)
     (PDF), [“Hamdan v.
-    Rumsfeld”](https://resources.saylor.org/archived/wp-content/uploads/2013/10/Hamdan-v.-Rumsfeld-4.2.pdf)
+    Rumsfeld”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/10/Hamdan-v.-Rumsfeld-4.2.pdf)
     (PDF), and [“Boumediene v.
-    Bush”](https://resources.saylor.org/archived/wp-content/uploads/2013/10/Boumediene-v.-Bush-4.2.pdf)
+    Bush”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/10/Boumediene-v.-Bush-4.2.pdf)
     (PDF)  
       
      Instructions: Please click on each link above, and read the facts
@@ -182,11 +182,11 @@ id="4.3"></span> 
 -   **Reading: The Oyez Project: “United States v. Nixon,” “Nixon v.
     Fitzgerald,” and “Clinton v. Jones”**
     Link: The Oyez Project: [“United States v.
-    Nixon”](https://resources.saylor.org/archived/wp-content/uploads/2013/10/United-States-v.-NIXON-4.3.pdf)
+    Nixon”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/10/United-States-v.-NIXON-4.3.pdf)
     (PDF), [“Nixon v.
-    Fitzgerald”](https://resources.saylor.org/archived/wp-content/uploads/2013/10/NIXON-v.-FITZGERALD-4.3.pdf)
+    Fitzgerald”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/10/NIXON-v.-FITZGERALD-4.3.pdf)
     (PDF), and [“Clinton v.
-    Jones”](https://resources.saylor.org/archived/wp-content/uploads/2013/10/CLINTON-v.-JONES-4.3.pdf)
+    Jones”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/10/CLINTON-v.-JONES-4.3.pdf)
     (PDF)  
       
      Instructions: Please click on each link above, and read the facts
@@ -212,11 +212,11 @@ id="4.3"></span> 
 -   **Reading: The Oyez Project: “Myers v. United States,” “Humphrey’s
     Executor v. United States,” and “Wiener v. United States”**
     Link: The Oyez Project: [“Myers v. United
-    States”](https://resources.saylor.org/archived/wp-content/uploads/2013/10/Myers-v.-United-States.pdf)
+    States”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/10/Myers-v.-United-States.pdf)
     (PDF), [“Humphrey’s Executor v. United
-    States”](https://resources.saylor.org/archived/wp-content/uploads/2013/10/Humphreys-Executor-v.-United-States.pdf)
+    States”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/10/Humphreys-Executor-v.-United-States.pdf)
     (PDF), and [“Wiener v. United
-    States”](https://resources.saylor.org/archived/wp-content/uploads/2013/10/Wiener-v.-United-States.pdf)
+    States”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/10/Wiener-v.-United-States.pdf)
     (PDF)  
       
      Instructions: Please click on each link above, and read the facts

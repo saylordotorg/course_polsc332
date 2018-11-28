@@ -114,7 +114,7 @@ id="5.2"></span> 
       
      Link: Foreign Policy in Focus: Daniel Smith’s [“Putting the
     President in His
-    Place”](https://resources.saylor.org/archived/wp-content/uploads/2013/10/Putting-the-President-in-His-Place-5.2.pdf)
+    Place”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/10/Putting-the-President-in-His-Place-5.2.pdf)
     (PDF)  
       
      Instructions: Please read the entire above article.  
@@ -150,7 +150,7 @@ id="5.2"></span> 
 -   **Reading: The United States Senate: “Vice President of the United
     States”**
     Link: The United States Senate: [“Vice President of the United
-    States”](https://resources.saylor.org/archived/wp-content/uploads/2013/10/Vice-President-of-the-United-States-5.3.pdf)
+    States”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/10/Vice-President-of-the-United-States-5.3.pdf)
     (PDF)  
       
      Instructions: Please read the entire account of the history of the
@@ -209,7 +209,7 @@ id="5.2"></span> 
     Executive Branch: Powers of the President"**
     Link: US Department of State: *Outline of US Government*: [“The
     Executive Branch: Powers of the
-    Presidency”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/POLSC2313.2.1.pdf)
+    Presidency”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/POLSC2313.2.1.pdf)
     (PDF)  
       
      Instructions: While reading this article, pay particular attention
@@ -276,7 +276,7 @@ id="5.2"></span> 
 **5.7 Executive Office of the President** <span id="5.7"></span> 
 -   **Reading: The White House: “Executive Office of the President”**
     Link: The White House: [“Executive Office of the
-    President”](https://resources.saylor.org/archived/wp-content/uploads/2013/10/Executive-Office-of-the-President-5.7.pdf)
+    President”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/10/Executive-Office-of-the-President-5.7.pdf)
     (PDF)  
       
      Instructions: In this resource, you can see all the offices that
