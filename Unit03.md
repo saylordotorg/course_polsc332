@@ -164,7 +164,7 @@ id="3.2"></span> 
 -   **Assessment: The Saylor Foundation’s “Presidential Initiatives and
     Congress”**
     Link: The Saylor Foundation’s [“Presidential Initiatives and
-    Congress”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/POLSC332-OC-3.2-FINAL-Asssessment.pdf)
+    Congress”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/POLSC332-OC-3.2-FINAL-Asssessment.pdf)
     (PDF)  
       
      Instructions: Please complete the linked assessment in order to
@@ -172,7 +172,7 @@ id="3.2"></span> 
     the president and Congress. When you are done, please check your
     work against The Saylor Foundation’s [“Guide to Responding:
     Presidential Initiatives and
-    Congress”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/POLSC332-OC-3.2-GuidetoResponding-FINAL-Assessment.pdf)
+    Congress”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/POLSC332-OC-3.2-GuidetoResponding-FINAL-Assessment.pdf)
     (PDF).  
       
      Completing this assessment should take approximately 1 hour.
@@ -265,7 +265,7 @@ id="3.5.1"></span> 
     Executive Privilege Claim”**
     Link: ProPublica: Cora Currier’s [“The Facts behind Obama's
     Executive Privilege
-    Claim”](https://resources.saylor.org/archived/wp-content/uploads/2013/10/The-Facts-Behind-Obamas-Executive-Privilege-Claim-3.5.1.pdf)
+    Claim”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/10/The-Facts-Behind-Obamas-Executive-Privilege-Claim-3.5.1.pdf)
     (PDF)  
       
      Instructions: Please read the entire above article on President
@@ -303,7 +303,7 @@ id="3.5.2"></span> 
     Review of Congressional Oversight: Critics and Defenders”**
     Link: Central Intelligence Agency: James S. Van Wagenen’s [“A Review
     of Congressional Oversight: Critics and
-    Defenders”](https://resources.saylor.org/archived/wp-content/uploads/2013/10/A-Review-of-Congressional-Oversight-Critics-and-Defenders-3.5.2.pdf)
+    Defenders”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/10/A-Review-of-Congressional-Oversight-Critics-and-Defenders-3.5.2.pdf)
     (PDF)  
       
      Instructions: Please read the entire article.  
